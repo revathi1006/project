@@ -1,4 +1,4 @@
-![Screenshot 2024-04-26 000401](https://github.com/user-attachments/assets/5310e007-8c1e-4aca-873e-5c1f33b87082)
+
 # An-AI-Chatbot-in-Python-and-Flask
 An AI Chatbot using Python and Flask REST API 
 
@@ -39,6 +39,8 @@ This is the model which will be used by the Flask REST API to easily give feedba
 After running ```train.py```, next run the ```app.py``` to initialize and start the bot.<br>
 To add more terms and vocabulary to the bot, modify the ```intents.json``` file and add your personalized words and retr![Screenshot 2024-04-26 000401](https://github.com/user-attachments/assets/177401c7-9b81-4fc0-9303-0d4e9a8110df)
 ain the model again.![Screenshot 2024-04-26 000533](https://github.com/user-attachments/assets/b4f6070d-742b-4542-b241-a0ac945b5034)
+![Screenshot 2024-04-26 000533](https://github.com/user-attachments/assets/ecf0ca2b-e73c-4a94-b39d-7deaa584e227)
+![Screenshot 2024-04-26 000401](https://github.com/user-attachments/assets/5310e007-8c1e-4aca-873e-5c1f33b87082)
 
 
 
